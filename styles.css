@@ -1,0 +1,61 @@
+body {
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid green;
+}
+h1 {
+    text-align: center;
+    border: 1px solid red;
+}
+#banner {
+    width: 100%;
+}
+#banner img {
+    width: 100%;
+    border-radius: 15px;
+    
+}
+label {
+    border: 1px solid red;
+    display: block;
+}
+
+.Paleta {
+    color: #d2cfca;
+    color: #1f1513;
+    color: #683c2f;
+    color: #94653f;
+    color: #756f6b;
+    color: #97796d;
+    color: #9b9da0;
+    color: #aa937a;
+    color: #4c8c5f;
+
+
+
+
+
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
